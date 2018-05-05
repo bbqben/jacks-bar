@@ -19,8 +19,13 @@
     "gulp-plumber": "^1.1.0",
     "react": "^15.4.2",
     "react-dom": "^15.4.2",
+    "source-map": "^0.7.2",
     "vinyl-buffer": "^1.0.0",
-    "vinyl-source-stream": "^1.1.0",
-    "source-map": "^0.7.2"
+    "vinyl-source-stream": "^1.1.0"
+  },
+  "dependencies": {
+    "gulp-autoprefixer": "^5.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-sass": "^4.0.1"
   }
 }
